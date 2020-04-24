@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ajaj", "Ajaj\Ajaj.vcxproj", "{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Debug|x64.ActiveCfg = Debug|x64
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Debug|x64.Build.0 = Debug|x64
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Debug|x86.ActiveCfg = Debug|Win32
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Debug|x86.Build.0 = Debug|Win32
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Release|x64.ActiveCfg = Release|x64
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Release|x64.Build.0 = Release|x64
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Release|x86.ActiveCfg = Release|Win32
+		{533EE647-B7CF-4A87-AD1B-4A5AE7E99ACB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D23BF31-4F12-410F-910A-C7377F96A0D4}
+	EndGlobalSection
+EndGlobal
