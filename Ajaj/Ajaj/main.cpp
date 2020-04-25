@@ -1,10 +1,19 @@
 #include <SFML/Graphics.hpp>
+#include "button.h"
+
+
 
 int main()
 {
+    system("dir");
+
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
-    sf::CircleShape shape(100.f);
-    shape.setFillColor(sf::Color::Green);
+    sf::Texture testTexture;
+    if (!testTexture.loadFromFile("jej.png"))
+    {
+        return -1;
+    }
+    //button play(testTexture, sf::Vector2f(10,10),(char*)"ahoooj");
 
     while (window.isOpen())
     {
@@ -16,7 +25,7 @@ int main()
         }
 
         window.clear();
-        window.draw(shape);
+
         window.display();
     }
 
