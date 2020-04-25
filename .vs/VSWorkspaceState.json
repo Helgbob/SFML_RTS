@@ -4,10 +4,8 @@
     "\\Ajaj",
     "\\Ajaj\\Ajaj",
     "\\Ajaj\\Debug",
-    "\\Ajaj\\Debug\\assets",
-    "\\Ajaj\\Debug\\assets\\RTS Sci-fi (120 assets)\\PNG",
-    "\\Ajaj\\Debug\\assets\\RTS Sci-fi (120 assets)\\PNG\\Default size"
+    "\\Ajaj\\Debug\\assets"
   ],
-  "SelectedNode": "\\Ajaj\\Debug\\assets\\RpgUi",
+  "SelectedNode": "\\Ajaj\\Ajaj\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
